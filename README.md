@@ -17,7 +17,7 @@
         <br>
         <button type="button"> Tipo boton</button>
         <button type="reset"> Tipo reset</button>
-        <button type="submit"> <img src="1.jpeg"> Tipo submit</Tipo></button>
+        <button type="submit"> Tipo submit</Tipo></button>
     </form>
     <h1>Los Rivadeneira</h1>
     <p>Venta de productos,  <span style="color:tomato">accesorios</span>,<br> bazar, audio y video, </p>
