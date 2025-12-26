@@ -14,7 +14,7 @@
     </header>
 
 
-    <section>
+    <div>
         <h2>Categoría de productos</h2>
         <hr>
         <article class="categoria">
@@ -37,7 +37,7 @@
             <img src="accesorios.jpeg" width="300">
             <h2>Accesorios</h2>
         </article>
-    </section>
+    </div>
 
     <footer>
         <a href="#titulo"> Ir al comienzo</a>
