@@ -13,7 +13,6 @@
         <hr>
     </header>
 
-    <div></div>
 
     <section>
         <h2>Categoría de productos</h2>
