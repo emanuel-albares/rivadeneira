@@ -38,6 +38,7 @@
         </article>
     </section>
     <footer>
+        <hr>
         <a href="#titulo"> Ir al comienzo</a>
         <a href="https://www.google.com"> Ir a google</a>
         <a href="https://wa.me/qr/OHBHYIRRG6QSJ1"> WhatsApp</a>
