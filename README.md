@@ -9,6 +9,7 @@
     <header>
         <h1 id="titulo">Los Rivadeneira</h1>
         <h2>Una empresa familiar</h2>
+        <hr>
         <img src="toy.jpeg" width="300">
         <hr>
     </header>
