@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="sp">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,9 +12,7 @@
         <img src="toy.jpeg" width="300">
         <hr>
     </header>
-
-
-    <div>
+    <section>
         <h2>Categoría de productos</h2>
         <hr>
         <article class="categoria">
@@ -37,8 +35,7 @@
             <img src="accesorios.jpeg" width="300">
             <h2>Accesorios</h2>
         </article>
-    </div>
-
+    </section>
     <footer>
         <a href="#titulo"> Ir al comienzo</a>
         <a href="https://www.google.com"> Ir a google</a>
